@@ -6,4 +6,4 @@ The study was done:
 - using Python in particular using the NumPy and Pandas libraries,
 - the datasets were taken from the FBI website
 
-For further details see "Report.pdf"
+For further details and the explanation of the entire study carried out, see "Report.pdf"
